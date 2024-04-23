@@ -1,4 +1,4 @@
-# YSYX
+# NVBOARD-YSYX
 # NJU-DLCO-lecture
 
 My solutions for [DLCO(Digital Logic and Computer Organization) lecture](https://nju-projectn.github.io/dlco-lecture-note/) labs of NJU-ProjectN.
