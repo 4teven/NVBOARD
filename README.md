@@ -19,5 +19,5 @@ Each lab eventually runs on NVBoard(another sub-project of NJU-ProjectN), a virt
 ## How to Run
 
 In each subfolder
-- `make sim` to generate executable file on NVBoard
-- `./build/($EXE_FILENAME)` to run the file on NVBoard.
+- `make run` to generate an executable file on NVBoard and run the NVBOARD
+- `make clean` to clean the file that generated
