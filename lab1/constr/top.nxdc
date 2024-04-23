@@ -1,0 +1,8 @@
+top=top
+  
+x0 (SW1,SW0)
+x1 (SW3,SW2)
+x2 (SW5,SW4)
+x3 (SW7,SW6)
+y SW9
+f (LD1,LD0)
